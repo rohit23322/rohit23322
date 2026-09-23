@@ -20,6 +20,7 @@ I'm a **BCA graduate and currently pursuing MCA (2nd Year)**, passionate about P
 * **Real-Time Chat Application** — FastAPI, WebSockets, MySQL
 * **Web Scraping Application** — Python, BeautifulSoup, MySQL
 * **House Price Prediction** — Python, Pandas, Scikit-learn
+* **fastbox-delivery-system 
 
 ## 🎓 Education
 
