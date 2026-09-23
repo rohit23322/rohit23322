@@ -36,7 +36,7 @@ Opportunities as a **Python Developer, Backend Developer, or AI Engineer**.
 
 ## 🔗 Connect With Me
 
-* LinkedIn
-* Portfolio
-* Email
+* LinkedIn:https://www.linkedin.com/in/rohit-khomane-3036ba294?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* Portfolio:https://rohit23322.github.io/rohit-portfolio
+* Email:khomanerohit66@gmail.com
 
