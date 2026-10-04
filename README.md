@@ -1,42 +1,28 @@
-# Hi, I'm Rohit Khomane 👋
+<div align="center">
 
-### 🐍 Python Developer | Backend Developer | AI/ML Enthusiast
+# 👋 Hi, I'm Rohit Khomane
 
-I'm a **BCA graduate and currently pursuing MCA (2nd Year)**, passionate about Python, backend development, REST APIs, and AI/ML technologies.
+### 🐍 Python Developer | 🤖 AI/ML Engineer | ⚡ Backend Developer
 
-## 🚀 Skills
+<img src="./assets/developer-animation.gif" width="800"/>
 
-* Python
-* FastAPI
-* REST API
-* MySQL
-* SQLAlchemy
-* Machine Learning
-* Git & GitHub
+---
 
-## 💻 Projects
+### 🚀 About Me
 
-* **Job Portal REST API** — Python, FastAPI, MySQL
-* **Real-Time Chat Application** — FastAPI, WebSockets, MySQL
-* **Web Scraping Application** — Python, BeautifulSoup, MySQL
-* **House Price Prediction** — Python, Pandas, Scikit-learn
-* **fastbox-delivery-system 
+💻 Python Backend Developer  
+🤖 AI/ML Enthusiast  
+⚡ FastAPI & Django Developer  
+🗄️ MySQL & SQL  
+🎓 BCA Graduate | MCA Pursuing  
 
-## 🎓 Education
+### 🛠️ Tech Stack
 
-**MCA — 2nd Year**
-Currently Pursuing
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**BCA — Bachelor of Computer Applications**
-Completed
-
-## 🎯 Currently Looking For
-
-Opportunities as a **Python Developer, Backend Developer, or AI Engineer**.
-
-## 🔗 Connect With Me
-
-* LinkedIn:https://www.linkedin.com/in/rohit-khomane-3036ba294?utm_source=share_via&utm_content=profile&utm_medium=member_android
-* Portfolio:https://rohit23322.github.io/rohit-portfolio
-* Email:khomanerohit66@gmail.com
-
+</div>
